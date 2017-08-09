@@ -1,0 +1,6 @@
+
+target 'YFAsyncRoundCorner' do
+  platform:ios,'7.1'
+  project 'YFAsyncRoundCorner.xcodeproj'
+   pod 'SDWebImage'
+  end 

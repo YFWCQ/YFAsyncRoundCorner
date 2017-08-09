@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YFAsyncRoundCorner/Category/UIImageView+YFAsyncRoundCorner.m"
+            timestampString = "523690045.966724"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "-yf_setRoundCornerImageWithURL:placeholderImage:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YFAsyncRoundCorner/Category/UIImageView+YFAsyncRoundCorner.m"
+            timestampString = "523901629.729525"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-yf_setRoundCornerImageWithURL:placeholderImage:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIImageView(YFAsyncRoundCorner) yf_setRoundCornerImageWithURL:placeholderImage:]"
+                  moduleName = "YFAsyncRoundCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fywcq/Desktop/%E5%9C%86%E8%A7%92/YFAsyncRoundCorner/YFAsyncRoundCorner/Category/UIImageView+YFAsyncRoundCorner.m"
+                  timestampString = "523901630.063046"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__82-[UIImageView(YFAsyncRoundCorner) yf_setRoundCornerImageWithURL:placeholderImage:]_block_invoke"
+                  moduleName = "YFAsyncRoundCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fywcq/Desktop/%E5%9C%86%E8%A7%92/YFAsyncRoundCorner/YFAsyncRoundCorner/Category/UIImageView+YFAsyncRoundCorner.m"
+                  timestampString = "523901630.066311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YFAsyncRoundCorner/Category/UIImage+YF.m"
+            timestampString = "523901660.30989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "-imageByRoundCornerRadius:corners:borderWidth:borderColor:borderLineJoin:fillColor:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
