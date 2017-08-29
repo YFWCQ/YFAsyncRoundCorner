@@ -8,35 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		164F05457F465B95629D4005 /* libPods-YFAsyncRoundCorner.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 827E9CE05F070A17D61753F7 /* libPods-YFAsyncRoundCorner.a */; };
-		5EF3F05C1F36D9B8003825BB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF3F05B1F36D9B8003825BB /* main.m */; };
-		5EF3F05F1F36D9B8003825BB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF3F05E1F36D9B8003825BB /* AppDelegate.m */; };
-		5EF3F0621F36D9B8003825BB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF3F0611F36D9B8003825BB /* ViewController.m */; };
-		5EF3F0651F36D9B8003825BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EF3F0631F36D9B8003825BB /* Main.storyboard */; };
-		5EF3F0671F36D9B8003825BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EF3F0661F36D9B8003825BB /* Assets.xcassets */; };
-		5EF3F06A1F36D9B8003825BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EF3F0681F36D9B8003825BB /* LaunchScreen.storyboard */; };
-		5EF3F0731F36DA86003825BB /* YFCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF3F0721F36DA86003825BB /* YFCell.m */; };
-		5EF3F0791F36DD33003825BB /* UIImage+YF.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF3F0761F36DD33003825BB /* UIImage+YF.m */; };
-		5EF3F07A1F36DD33003825BB /* UIImageView+YFAsyncRoundCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EF3F0781F36DD33003825BB /* UIImageView+YFAsyncRoundCorner.m */; };
+		5E70F2DA1F55111A00308EFA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E70F2C91F55111A00308EFA /* AppDelegate.m */; };
+		5E70F2DB1F55111A00308EFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E70F2CA1F55111A00308EFA /* Assets.xcassets */; };
+		5E70F2DC1F55111A00308EFA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E70F2CB1F55111A00308EFA /* LaunchScreen.storyboard */; };
+		5E70F2DD1F55111A00308EFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E70F2CD1F55111A00308EFA /* Main.storyboard */; };
+		5E70F2DE1F55111A00308EFA /* UIImage+YF.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E70F2D11F55111A00308EFA /* UIImage+YF.m */; };
+		5E70F2DF1F55111A00308EFA /* UIImageView+YFAsyncRoundCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E70F2D31F55111A00308EFA /* UIImageView+YFAsyncRoundCorner.m */; };
+		5E70F2E01F55111A00308EFA /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E70F2D41F55111A00308EFA /* Info.plist */; };
+		5E70F2E11F55111A00308EFA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E70F2D51F55111A00308EFA /* main.m */; };
+		5E70F2E21F55111A00308EFA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E70F2D71F55111A00308EFA /* ViewController.m */; };
+		5E70F2E31F55111A00308EFA /* YFCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E70F2D91F55111A00308EFA /* YFCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		509FC26C7BCD3307F7D3CC04 /* Pods-YFAsyncRoundCorner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YFAsyncRoundCorner.release.xcconfig"; path = "Pods/Target Support Files/Pods-YFAsyncRoundCorner/Pods-YFAsyncRoundCorner.release.xcconfig"; sourceTree = "<group>"; };
+		5E70F2C81F55111A00308EFA /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5E70F2C91F55111A00308EFA /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5E70F2CA1F55111A00308EFA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5E70F2CC1F55111A00308EFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5E70F2CE1F55111A00308EFA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5E70F2D01F55111A00308EFA /* UIImage+YF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+YF.h"; sourceTree = "<group>"; };
+		5E70F2D11F55111A00308EFA /* UIImage+YF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+YF.m"; sourceTree = "<group>"; };
+		5E70F2D21F55111A00308EFA /* UIImageView+YFAsyncRoundCorner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+YFAsyncRoundCorner.h"; sourceTree = "<group>"; };
+		5E70F2D31F55111A00308EFA /* UIImageView+YFAsyncRoundCorner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+YFAsyncRoundCorner.m"; sourceTree = "<group>"; };
+		5E70F2D41F55111A00308EFA /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E70F2D51F55111A00308EFA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5E70F2D61F55111A00308EFA /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		5E70F2D71F55111A00308EFA /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		5E70F2D81F55111A00308EFA /* YFCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YFCell.h; sourceTree = "<group>"; };
+		5E70F2D91F55111A00308EFA /* YFCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFCell.m; sourceTree = "<group>"; };
 		5EF3F0571F36D9B8003825BB /* YFAsyncRoundCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YFAsyncRoundCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EF3F05B1F36D9B8003825BB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5EF3F05D1F36D9B8003825BB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		5EF3F05E1F36D9B8003825BB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		5EF3F0601F36D9B8003825BB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		5EF3F0611F36D9B8003825BB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		5EF3F0641F36D9B8003825BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5EF3F0661F36D9B8003825BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5EF3F0691F36D9B8003825BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5EF3F06B1F36D9B8003825BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5EF3F0711F36DA86003825BB /* YFCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YFCell.h; sourceTree = "<group>"; };
-		5EF3F0721F36DA86003825BB /* YFCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YFCell.m; sourceTree = "<group>"; };
-		5EF3F0751F36DD33003825BB /* UIImage+YF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+YF.h"; sourceTree = "<group>"; };
-		5EF3F0761F36DD33003825BB /* UIImage+YF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+YF.m"; sourceTree = "<group>"; };
-		5EF3F0771F36DD33003825BB /* UIImageView+YFAsyncRoundCorner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+YFAsyncRoundCorner.h"; sourceTree = "<group>"; };
-		5EF3F0781F36DD33003825BB /* UIImageView+YFAsyncRoundCorner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+YFAsyncRoundCorner.m"; sourceTree = "<group>"; };
 		827E9CE05F070A17D61753F7 /* libPods-YFAsyncRoundCorner.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YFAsyncRoundCorner.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0D65C711E219D314C8396FE /* Pods-YFAsyncRoundCorner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YFAsyncRoundCorner.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YFAsyncRoundCorner/Pods-YFAsyncRoundCorner.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,10 +62,40 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5E70F2C71F55111A00308EFA /* YFAsyncRoundCorner */ = {
+			isa = PBXGroup;
+			children = (
+				5E70F2C81F55111A00308EFA /* AppDelegate.h */,
+				5E70F2C91F55111A00308EFA /* AppDelegate.m */,
+				5E70F2CA1F55111A00308EFA /* Assets.xcassets */,
+				5E70F2CB1F55111A00308EFA /* LaunchScreen.storyboard */,
+				5E70F2CD1F55111A00308EFA /* Main.storyboard */,
+				5E70F2CF1F55111A00308EFA /* Category */,
+				5E70F2D41F55111A00308EFA /* Info.plist */,
+				5E70F2D51F55111A00308EFA /* main.m */,
+				5E70F2D61F55111A00308EFA /* ViewController.h */,
+				5E70F2D71F55111A00308EFA /* ViewController.m */,
+				5E70F2D81F55111A00308EFA /* YFCell.h */,
+				5E70F2D91F55111A00308EFA /* YFCell.m */,
+			);
+			path = YFAsyncRoundCorner;
+			sourceTree = "<group>";
+		};
+		5E70F2CF1F55111A00308EFA /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				5E70F2D01F55111A00308EFA /* UIImage+YF.h */,
+				5E70F2D11F55111A00308EFA /* UIImage+YF.m */,
+				5E70F2D21F55111A00308EFA /* UIImageView+YFAsyncRoundCorner.h */,
+				5E70F2D31F55111A00308EFA /* UIImageView+YFAsyncRoundCorner.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
 		5EF3F04E1F36D9B8003825BB = {
 			isa = PBXGroup;
 			children = (
-				5EF3F0591F36D9B8003825BB /* YFAsyncRoundCorner */,
+				5E70F2C71F55111A00308EFA /* YFAsyncRoundCorner */,
 				5EF3F0581F36D9B8003825BB /* Products */,
 				C6584A2956797D6835F4FF55 /* Pods */,
 				3AB38E39E9C06066C7B64380 /* Frameworks */,
@@ -77,44 +108,6 @@
 				5EF3F0571F36D9B8003825BB /* YFAsyncRoundCorner.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		5EF3F0591F36D9B8003825BB /* YFAsyncRoundCorner */ = {
-			isa = PBXGroup;
-			children = (
-				5EF3F0741F36DD2E003825BB /* Category */,
-				5EF3F05D1F36D9B8003825BB /* AppDelegate.h */,
-				5EF3F05E1F36D9B8003825BB /* AppDelegate.m */,
-				5EF3F0601F36D9B8003825BB /* ViewController.h */,
-				5EF3F0611F36D9B8003825BB /* ViewController.m */,
-				5EF3F0631F36D9B8003825BB /* Main.storyboard */,
-				5EF3F0661F36D9B8003825BB /* Assets.xcassets */,
-				5EF3F0681F36D9B8003825BB /* LaunchScreen.storyboard */,
-				5EF3F06B1F36D9B8003825BB /* Info.plist */,
-				5EF3F05A1F36D9B8003825BB /* Supporting Files */,
-				5EF3F0711F36DA86003825BB /* YFCell.h */,
-				5EF3F0721F36DA86003825BB /* YFCell.m */,
-			);
-			path = YFAsyncRoundCorner;
-			sourceTree = "<group>";
-		};
-		5EF3F05A1F36D9B8003825BB /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				5EF3F05B1F36D9B8003825BB /* main.m */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		5EF3F0741F36DD2E003825BB /* Category */ = {
-			isa = PBXGroup;
-			children = (
-				5EF3F0751F36DD33003825BB /* UIImage+YF.h */,
-				5EF3F0761F36DD33003825BB /* UIImage+YF.m */,
-				5EF3F0771F36DD33003825BB /* UIImageView+YFAsyncRoundCorner.h */,
-				5EF3F0781F36DD33003825BB /* UIImageView+YFAsyncRoundCorner.m */,
-			);
-			path = Category;
 			sourceTree = "<group>";
 		};
 		C6584A2956797D6835F4FF55 /* Pods */ = {
@@ -188,9 +181,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EF3F06A1F36D9B8003825BB /* LaunchScreen.storyboard in Resources */,
-				5EF3F0671F36D9B8003825BB /* Assets.xcassets in Resources */,
-				5EF3F0651F36D9B8003825BB /* Main.storyboard in Resources */,
+				5E70F2E01F55111A00308EFA /* Info.plist in Resources */,
+				5E70F2DD1F55111A00308EFA /* Main.storyboard in Resources */,
+				5E70F2DB1F55111A00308EFA /* Assets.xcassets in Resources */,
+				5E70F2DC1F55111A00308EFA /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,32 +243,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EF3F0791F36DD33003825BB /* UIImage+YF.m in Sources */,
-				5EF3F0621F36D9B8003825BB /* ViewController.m in Sources */,
-				5EF3F05F1F36D9B8003825BB /* AppDelegate.m in Sources */,
-				5EF3F0731F36DA86003825BB /* YFCell.m in Sources */,
-				5EF3F07A1F36DD33003825BB /* UIImageView+YFAsyncRoundCorner.m in Sources */,
-				5EF3F05C1F36D9B8003825BB /* main.m in Sources */,
+				5E70F2DE1F55111A00308EFA /* UIImage+YF.m in Sources */,
+				5E70F2DF1F55111A00308EFA /* UIImageView+YFAsyncRoundCorner.m in Sources */,
+				5E70F2E31F55111A00308EFA /* YFCell.m in Sources */,
+				5E70F2E11F55111A00308EFA /* main.m in Sources */,
+				5E70F2DA1F55111A00308EFA /* AppDelegate.m in Sources */,
+				5E70F2E21F55111A00308EFA /* ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		5EF3F0631F36D9B8003825BB /* Main.storyboard */ = {
+		5E70F2CB1F55111A00308EFA /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5EF3F0641F36D9B8003825BB /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5EF3F0681F36D9B8003825BB /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5EF3F0691F36D9B8003825BB /* Base */,
+				5E70F2CC1F55111A00308EFA /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		5E70F2CD1F55111A00308EFA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E70F2CE1F55111A00308EFA /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
